@@ -22,6 +22,12 @@
                 </ul>
             </li>
             <li class="principal">
+                <a href="clientes.php">Clientes</a>
+                <ul>
+                    <li><a href="reg_nuevo_cliente.php">Crear Registro</a></li>
+                </ul>
+            </li>
+            <li class="principal">
                 <a href="tipos_cargo.php">Tipo Cargo</a>
                 <ul>
                     <li><a href="reg_nuevo_tipo_cargo.php">Crear Registro</a></li>

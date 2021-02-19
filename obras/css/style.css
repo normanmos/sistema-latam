@@ -65,6 +65,15 @@ header{
 	align-items: center;
 	padding: 10px;
 }
+.fondo-imagen{
+	background-image: url(/obras/img/nuestra-historia.jpg);
+	background-size: auto;
+	background-position: center;
+	background-size: cover;
+	height: 100vh; 
+	width: 100vw; 
+	margin: -2rem;
+}
 .optionsBar{
     display: -webkit-flex;
     display: -moz-flex;

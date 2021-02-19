@@ -3,6 +3,6 @@
 	<script type="text/javascript" src="js/functions.js"></script>
 	<head>
 	<link  rel="icon"   href="img/logo.png" type="image/png"/>
-    <title>Celiconstrucciones</title>
+    <title>Latam Digital Solutions</title>
 	</head>
 	<?php include "functions.php"; ?>

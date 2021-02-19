@@ -10,7 +10,11 @@
     <?php include "includes/header.php"; ?>
     <section id="container">
         <div class="container">
-            <img src="img/nuestra-historia.jpg" alt="nuestra-historia">
+            <!--
+                <img class="fondo-imagen" src="img/nuestra-historia.jpg" alt="nuestra-historia">
+            -->
+            <div class="fondo-imagen">
+            </div>
         </div>
     </section>
     <?php include "includes/footer.php"; ?>

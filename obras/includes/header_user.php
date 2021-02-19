@@ -12,9 +12,7 @@ $fecha_actual = date('Y-m-d');
 ?>
 
 <header>
-    <div class="header">
-            
-            
+    <div class="header">         
             <a href="../index.php"><span class="user"><?php echo $Usuario.' - '.$Rol; ?></span><img class="close" src="img/salida.png" alt="Salir" title="Salir"></a>
         </div>
     </div>

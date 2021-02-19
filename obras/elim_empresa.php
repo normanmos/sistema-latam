@@ -67,5 +67,4 @@ foreach($data as $dato){
     </section>
     <?php include "includes/footer.php"; ?>
 </body>
-
 </html>
